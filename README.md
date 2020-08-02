@@ -1,3 +1,3 @@
-### Hello, i'm not a Bot
-
-![image](https://api.alexflipnote.dev/challenge?text=Create%20a%20discord%20bot)
+### Hello, it's a cool feature.
+## Rox Bot Server: [Discord Server Invite](https://discord.rox.wtf).
+## Rox Bot Invite: [Invite the Bot](https://invite.rox.wtf)
